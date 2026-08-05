@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gabriel%20Morais&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-end%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gabe-morais&theme=radical&hide_border=true&cache_seconds=86400" alt="gabe-morais's GitHub Streak" width="49%" />
