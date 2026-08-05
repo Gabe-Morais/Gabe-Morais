@@ -1,7 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gabriel%20Morais&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-end%20Developer&descSize=18&descAlignY=55&textBg=false"/>
-
-<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gabe-morais&theme=radical&hide_border=true&cache_seconds=86400" alt="gabe-morais's GitHub Streak" width="49%" />
@@ -41,8 +38,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
